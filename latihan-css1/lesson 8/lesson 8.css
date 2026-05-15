@@ -1,0 +1,98 @@
+input {
+    display: block;
+    margin-top: 10px;
+}
+
+p {
+    width: 250px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+button {
+    vertical-align: middle;
+}
+
+.logo {
+    width: 180px;
+    display: block;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+
+.search-box {
+    width: 500px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid gray;
+}
+
+.first-name,
+.last-name{
+    width: 100px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid gray;
+
+    display: inline-block;
+}
+
+.email {
+    display: block;
+
+    width: 225px;
+    padding: 10px;
+
+    margin-top: 10px;
+
+    border-radius: 8px;
+    border: 1px solid gray;
+}
+
+.signup-btn {
+    margin-top: 10px;
+
+    width: 250px;
+    padding: 10px;
+
+    background-color: blue;
+    color: white;
+
+    border: none;
+    border-radius: 8px;
+
+    font-weight: bold;
+}
+
+h1 {
+    font-family: Arial;
+}
+
+.uber-input {
+    display: block;
+
+    width: 300px;
+
+    padding: 12px;
+
+    margin-bottom: 10px;
+
+    border: none;
+
+    background-color: rgb(240,240,240);
+}
+
+.request-btn{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    margin-right: 10px;
+}
+
+.schedule-btn {
+    background-color: rgb(240,240,240);
+    border: none;
+    padding: 12px 20px;
+}
+
