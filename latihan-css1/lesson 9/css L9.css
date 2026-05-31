@@ -1,0 +1,180 @@
+.red-box {
+    width: 100px;
+    height: 100px;
+
+    background-color: red;
+}
+
+.green-circle {
+    width: 100px;
+    height: 100px;
+
+    background-color: green;
+
+    border-radius: 50px;
+} 
+
+.survey-box {
+    border: 1px solid gray;
+    width: 300px;
+    padding: 15px;
+}
+
+.music-box {
+    background-color: rgb(33,33,33);
+    width: 350px;
+    padding: 15px;
+}
+
+.Tittle {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.description {
+    color: gray;
+}
+
+.profile-card{
+    width: 200px;
+
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+
+    padding-bottom: 10px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.profile-img{
+    width: 200px;
+    height: 200px;
+
+    object-fit: cover;
+}
+
+.name{
+    font-weight: bold;
+
+    margin-left: 8px;
+    margin-bottom: 5px;
+}
+
+.friends{
+    color: gray;
+
+    margin-left: 8px;
+    margin-top: 0;
+}
+
+.add-btn{
+    background-color: blue;
+    color: white;
+
+    border: none;
+
+    padding: 10px;
+
+    margin-left: 8px;
+
+    border-radius: 5px;
+}
+
+.tweet-box{
+    width: 450px;
+
+    padding: 10px;
+
+    border-radius: 8px;
+
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+
+.profile-picture{
+    width: 50px;
+    height: 50px;
+
+    border-radius: 25px;
+
+    object-fit: cover;
+
+    vertical-align: middle;
+}
+
+.tweet-input{
+    border: none;
+
+    font-size: 16px;
+
+    width: 250px;
+
+    vertical-align: middle;
+}
+
+.tweet-button{
+    background-color: rgb(29,155,240);
+
+    color: white;
+
+    border: none;
+
+    padding: 10px 16px;
+
+    border-radius: 20px;
+
+    font-weight: bold;
+
+    vertical-align: middle;
+}
+
+.google-container{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.google-logo2{
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.google-search{
+    width: 500px;
+    height: 45px;
+
+    border-radius: 25px;
+    border: 1px solid #dcdcdc;
+
+    padding-left: 20px;
+
+    font-size: 16px;
+
+    box-shadow: 0 1px 6px rgba(32,33,36,0.28);
+
+    outline: none;
+}
+
+.google-btn-box{
+    margin-top: 30px;
+}
+
+.google-btn{
+    height: 38px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+    border: none;
+
+    background-color: #f8f9fa;
+
+    margin: 5px;
+
+    font-size: 14px;
+
+    cursor: pointer;
+}
+
+.google-btn:hover{
+    border: 1px solid #c6c6c6;
+}
